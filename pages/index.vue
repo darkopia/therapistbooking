@@ -3,26 +3,12 @@
     <navbar />
     <div class="container">
       <div>
-        <Logo />
-        <h1 class="title">therapistBookingApp</h1>
-        <div class="links">
-          <a
-            href="https://nuxtjs.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="button--green"
-          >
-            Documentation
-          </a>
-          <a
-            href="https://github.com/nuxt/nuxt.js"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="button--grey"
-          >
-            GitHub
-          </a>
-        </div>
+        <img
+          style="height: 350px; width: 200px"
+          src="@/assets/julie.jpg"
+          alt="julie"
+        />
+        <h1 class="title">Book Julie to Sort your Head out</h1>
       </div>
     </div>
   </div>

@@ -8,14 +8,8 @@
         ><i class="fa fa-home"></i
       ></NuxtLink>
       <NuxtLink to="/booking" class="w3-bar-item w3-button"
-        ><i class="fa fa-search"></i
+        ><i class="fa fa-calendar"></i
       ></NuxtLink>
-
-      <a href="#" class="w3-bar-item w3-button"
-        ><i class="fa fa-envelope"></i
-      ></a>
-      <a href="#" class="w3-bar-item w3-button"><i class="fa fa-globe"></i></a>
-      <a href="#" class="w3-bar-item w3-button"><i class="fa fa-trash"></i></a>
     </div>
   </div>
 </template>
