@@ -3,11 +3,6 @@
     <navbar />
     <div class="container">
       <div>
-        <img
-          style="height: 350px; width: 200px"
-          src="@/assets/julie.jpg"
-          alt="julie"
-        />
         <h1 class="title">Book Julie to Sort your Head out</h1>
       </div>
     </div>
